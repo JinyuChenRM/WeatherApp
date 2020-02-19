@@ -10,10 +10,20 @@ public class Now {
     @SerializedName("cond")
     public More more;
 
+    public String hum;
+
+    @SerializedName("wind_dir")
+    public String windDirection;
+
+    @SerializedName("wind_spd")
+    public String windSpeed;
+
     public class More{
 
         @SerializedName("txt")
         public String information;
+
+
     }
 
 

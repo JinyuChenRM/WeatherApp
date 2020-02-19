@@ -93,6 +93,7 @@ class ChooseAreaFragment : Fragment() {
 
                 val weatherId = countyList!![position].weatherId
 
+
                 if (activity is MainActivity) {
                     val intent = Intent(activity, WeatherActivity::class.java)
                     intent.putExtra("weather_id", weatherId)
