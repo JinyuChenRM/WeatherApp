@@ -12,6 +12,10 @@ public class City extends DataSupport {
 
     private int provinceId;
 
+    String text1 = "nizhenshuai";
+
+    String text2 = "nihaoma";
+
     public int getId() {
         return id;
     }
