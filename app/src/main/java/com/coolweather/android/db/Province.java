@@ -9,9 +9,6 @@ public class Province extends DataSupport {
 
     private int provinceCode;
 
-    String text = "hdwiuhqwdhwqdhhdqwhoqwd";
-
-
     public int getId() {
         return id;
     }
