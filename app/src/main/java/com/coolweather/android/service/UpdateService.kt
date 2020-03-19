@@ -21,6 +21,8 @@ import okhttp3.Callback
 import okhttp3.Response
 
 class UpdateService : Service() {
+    
+    var text4 = "text4"
 
     override fun onBind(intent: Intent): IBinder? {
         return null
