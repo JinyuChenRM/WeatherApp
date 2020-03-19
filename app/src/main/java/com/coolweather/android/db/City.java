@@ -11,6 +11,8 @@ public class City extends DataSupport {
     private int cityCode;
 
     private int provinceId;
+    
+    String text1 = "nizhenshuai"
 
     public int getId() {
         return id;
