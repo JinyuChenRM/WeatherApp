@@ -4,7 +4,7 @@ import org.litepal.crud.DataSupport;
 
 public class Province extends DataSupport {
     String text = "nizhenshuai";
-    
+
     private int id;
 
     private String provinceName;

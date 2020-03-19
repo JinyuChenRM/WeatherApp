@@ -3,7 +3,7 @@ package com.coolweather.android.db;
 import org.litepal.crud.DataSupport;
 
 public class City extends DataSupport {
-    
+
     String text = "nizhenshuai";
 
     private int id;
@@ -13,6 +13,10 @@ public class City extends DataSupport {
     private int cityCode;
 
     private int provinceId;
+
+    String text1 = "nizhenshuai";
+
+    String text2 = "nihaoma";
 
     public int getId() {
         return id;
