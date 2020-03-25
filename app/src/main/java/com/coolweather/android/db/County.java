@@ -5,6 +5,11 @@ import org.litepal.crud.DataSupport;
 public class County extends DataSupport {
 
     String text = "nizhenshuaiqwqweqweqweqweqweqweq";
+    String text1 = "nizhenshuaiqwqweqweqweqweqweqweq";
+    String text2 = "nizhenshuaiqwqweqweqweqweqweqweq";
+    String text3 = "nizhenshuaiqwqweqweqweqweqweqweq";
+    String text4 = "nizhenshuaiqwqweqweqweqweqweqweq";
+    String text5 = "nizhenshuaiqwqweqweqweqweqweqweq";
 
     private int id;
 
