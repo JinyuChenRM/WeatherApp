@@ -21,9 +21,9 @@ public class City extends DataSupport {
 
     private int provinceId;
 
-    String text1 = "nizhenshuai";
+    String text1 = "nizhenshuai67w61e9128912897231";
 
-    String text2 = "nihaoma";
+    String text2 = "nihaoma123123123123123";
 
     public int getId() {
         return id;
