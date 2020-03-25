@@ -30,6 +30,10 @@ public class City extends DataSupport {
     String text1 = "nizhenshuai67w61e9128912897231";
 
     String text2 = "nihaoma123123123123123";
+    String text3 = "nihaoma123123123123123";
+    String text4 = "nihaoma123123123123123";
+    String text5 = "nihaoma123123123123123";
+    String text6 = "nihaoma123123123123123";
 
     public int getId() {
         return id;
