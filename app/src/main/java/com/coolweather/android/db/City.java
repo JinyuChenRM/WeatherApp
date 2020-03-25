@@ -5,6 +5,13 @@ import org.litepal.crud.DataSupport;
 public class City extends DataSupport {
 
     String text = "nizhenshuai";
+    String text3 = "nizhenshuai";
+    String text4 = "nizhenshuai";
+
+
+
+
+
 
     private int id;
 
