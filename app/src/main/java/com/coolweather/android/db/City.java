@@ -7,6 +7,12 @@ public class City extends DataSupport {
     String text = "nizhenshuai";
     String text3 = "nizhenshuai";
     String text4 = "nizhenshuai";
+    String text5 = "nizhenshuai";
+    String text6 = "nizhenshuai";
+    String text7 = "nizhenshuai";
+    String text8 = "nizhenshuai";
+    String text9 = "nizhenshuai";
+
 
 
 
